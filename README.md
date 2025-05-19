@@ -52,4 +52,3 @@ I'm a backend software engineer with experience designing scalable microservices
 
 - 💌 Email: yanyunwu.dev@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/anna-yanyun-wu-b03894179/)
-- 🌐 [My Github](https://github.com/AnnaWu23)
