@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Anna (Yanyun) Wu
 
-I'm a backend software engineer with experience designing scalable microservices and API workflows — especially in cloud-native environments using **Python, Flask, Django**, and **Google Cloud Platform**.
+I'm a backend software engineer with experience designing scalable microservices and API workflows — especially in cloud-native environments using **Python**, **Flask**, **Django**, and **Google Cloud Platform**.
+
+Currently, I'm expanding into **Java** and thoroughly enjoying the **Spring Boot** ecosystem and object-oriented design principles. I value **clean, maintainable, and elegant code**, and love learning how different languages and frameworks approach software architecture.
+
+While backend is my core strength, I'm also growing toward a **full-stack** skill set. I'm actively building projects with **React** and reinforcing my frontend fundamentals in JavaScript and TypeScript.
+
+Whether it's building robust APIs, integrating AI workflows, or creating smooth user interfaces, I enjoy solving real-world problems through thoughtful engineering.
 
 ---
 
