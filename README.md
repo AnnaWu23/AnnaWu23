@@ -39,7 +39,7 @@ Whether it's building robust APIs, integrating AI workflows, or creating smooth 
 
   A single-page chat platform inspired by Slack, built with Vanilla JavaScript, HTML, and CSS. Features include real-time messaging (via polling), channel management, profile editing, emoji reactions, media upload, and infinite scroll — all without using frameworks.
 
-  🛠 Tech Stack: ES6 JavaScript, Node.js, Express, JWT, Local Storage, file upload
+  🛠 Tech Stack: ES6 JavaScript, Node.js, JWT, Local Storage, file upload
 
 - [**🧬Cell Division Analysis**](https://github.com/AnnaWu23/CellDivision_Luminous)
 
