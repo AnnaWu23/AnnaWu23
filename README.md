@@ -33,13 +33,13 @@ Whether it's building robust APIs, integrating AI workflows, or creating smooth 
 
   An Airbnb-inspired property rental platform built with ReactJS. Features include secure auth, dynamic listings, real-time booking, advanced search/filtering, reviews, and responsive UI — showcasing modern frontend best practices.
 
-  🛠 Tech Stack: React, React Router v6, Material-UI, Formik + Yup, Axios, Node.js, JWT, Cypress, Jest
+  🛠 Tech Stack: React, React Router v6, Material-UI, Formik + Yup, Axios, Node.js, JWT, Cypress
 
 - [**💬Slackr**](https://github.com/AnnaWu23/Slackr)
 
   A single-page chat platform inspired by Slack, built with Vanilla JavaScript, HTML, and CSS. Features include real-time messaging (via polling), channel management, profile editing, emoji reactions, media upload, and infinite scroll — all without using frameworks.
 
-  🛠 Tech Stack: ES6 JavaScript, Fetch API, DOM API, Node.js, Express, JWT, Local Storage, file upload
+  🛠 Tech Stack: ES6 JavaScript, Node.js, Express, JWT, Local Storage, file upload
 
 - [**🧬Cell Division Analysis**](https://github.com/AnnaWu23/CellDivision_Luminous)
 
@@ -63,7 +63,7 @@ Whether it's building robust APIs, integrating AI workflows, or creating smooth 
 
   A modern password generator built with React and Material-UI. Features include customizable complexity options, real-time strength feedback, clipboard copy, and a fully responsive design.
 
-  🛠 Tech Stack: React 19, Vite, Material-UI, TypeScript, SASS/SCSS, Emotion, ESLint
+  🛠 Tech Stack: React, Vite, Material-UI, TypeScript, SASS/SCSS, ESLint
 
 ---
 
